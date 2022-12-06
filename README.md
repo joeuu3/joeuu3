@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph I. Udoh
-- 👀 I’m interested in working for a company or individual
+- 👀 I’m interested in working for a company or individual. I can carry out analysis with a complex data set and give reports within a short time using some python functions,Tableau, Excel etc.
 - 🌱 I’m about rounding up my program in data science and analysis
 - 💞️ I’m looking to collaborate with senior colleague in the field
 - 📫 To reach me call 09024400414
